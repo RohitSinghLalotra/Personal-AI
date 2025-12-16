@@ -2,7 +2,7 @@ import text_to_speech
 import speech_to_text
 import datetime
 import webbrowser
-import weather1
+import weather
 
 def Action (data):
     user_data = data.lower()
